@@ -1,4 +1,5 @@
 console.log("hello world")
+// extracted repetitions into functions
 
 function refrain() {
 // Chorus 1
@@ -31,5 +32,6 @@ refrain(); {
     console.log("And there's one thing more, I miss the one I care for");
     console.log("More than I miss New Orleans");
 }
-// Refrain
+
+refrain();
 
