@@ -30,7 +30,7 @@ function song() {
     console.log("Trick or treat 'til the neighbors gonna die of fright");
     console.log("It's our town, everybody scream");
     console.log("In this town of Halloween.");
-    console.log("");
+
     let r = refrain();
     console.log(r);
     console.log("I am the one hiding under your bed");
