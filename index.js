@@ -16,21 +16,21 @@ refrain(); {
     console.log("And I'd like to see that lazy Mississippi hurryin' into spring.")
 }
 
-refrain();
+refrain(); {
 
 // Verse 2
     console.log("The moonlight on the bayou a creole tune that fills the air");
     console.log("I dream about magnolias in bloom and I'm wishin' I was there");
 
-
-refrain();
+}
+refrain(); {
 
 // Chorus 2
     console.log("Do you know what it means to miss New Orleans,");
     console.log("When that's where you left your heart.");
     console.log("And there's one thing more, I miss the one I care for");
     console.log("More than I miss New Orleans");
-
+}
 // Refrain
 refrain();
 
