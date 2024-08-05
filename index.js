@@ -32,5 +32,4 @@ refrain(); {
     console.log("More than I miss New Orleans");
 }
 // Refrain
-refrain();
 
