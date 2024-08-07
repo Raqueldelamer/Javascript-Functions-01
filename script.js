@@ -38,5 +38,6 @@ function handleClick() {
   }
 
 let button = document.getElementById("song");
-// I prefer button.onclick = handleClick; but...
-button.addEventListener("click", handleClick);
+button.onclick = handleClick; 
+// button.onclick = handleClick works better than ->
+// -> button.addEventListener("click", handleClick);
