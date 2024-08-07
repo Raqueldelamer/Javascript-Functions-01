@@ -14,7 +14,7 @@ function Trick() {
 
 function refrain() {
     let words = "";
-    words += `Oh! ${Halloween()}`;
+    words += `Oh! ${Halloween()}\n`;
     words += `${Pumpkins()}\n`;
     words += `${Trick()}\n`;
     words += `${Halloween()}, Halloween\n`;
