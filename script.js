@@ -10,7 +10,7 @@ function refrain() {
 }
 
     let r = refrain();
-    words += r;
+ 
 
     
 function song(){
